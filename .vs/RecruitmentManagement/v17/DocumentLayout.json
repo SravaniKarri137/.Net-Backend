@@ -1,0 +1,619 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\controllers\\jobapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\model\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\model\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\dtos\\applicantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\dtos\\applicantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\dtos\\interviewresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\dtos\\interviewresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\controllers\\interviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\controllers\\interviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\dtos\\updatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\dtos\\updatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\dtos\\interviewupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\dtos\\interviewupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\model\\shortlisredprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\model\\shortlisredprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\model\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\model\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\model\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\model\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\controllers\\jobpostingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\controllers\\jobpostingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\recruitmentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\recruitmentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\services\\jobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\services\\jobpostingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\recruitmentmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\recruitmentmanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\model\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\model\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\data\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\P12C139\\OneDrive - Ceridian HCM Inc\\Desktop\\.NET Training\\RecruitmentManagement\\RecruitmentManagement\\Migrations\\20250415175923_RemoveResumeUrlFromJobApplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250416101523_q.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RecruitmentManagement\\Migrations\\20250416101523_q.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250416101929_cv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RecruitmentManagement\\Migrations\\20250416101929_cv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\recruitmentmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\recruitmentmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\migrations\\20250416102050_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\migrations\\20250416102050_ini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\migrations\\20250416165735_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\migrations\\20250416165735_migrationname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\migrations\\20250416174108_u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\migrations\\20250416174108_u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\migrations\\20250420103717_nu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\migrations\\20250420103717_nu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\migrations\\20250420100213_null.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\migrations\\20250420100213_null.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\migrations\\20250420093208_addid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\migrations\\20250420093208_addid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\migrations\\20250420090734_addstatusnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\migrations\\20250420090734_addstatusnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|c:\\dotnettraining\\onlinerecruitmentsystem\\shaan-main\\recruitmentmanagement\\migrations\\20250420083257_addstatustojobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD8AE637-F3E2-4FA9-B2B3-6AC2E45C7A87}|RecruitmentManagement\\RecruitmentManagement.csproj|solutionrelative:recruitmentmanagement\\migrations\\20250420083257_addstatustojobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InterviewUpdateDto.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\DTOs\\InterviewUpdateDto.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\DTOs\\InterviewUpdateDto.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\DTOs\\InterviewUpdateDto.cs",
+              "RelativeToolTip": "RecruitmentManagement\\DTOs\\InterviewUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:55:07.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterviewResponseDto.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\DTOs\\InterviewResponseDto.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\DTOs\\InterviewResponseDto.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\DTOs\\InterviewResponseDto.cs",
+              "RelativeToolTip": "RecruitmentManagement\\DTOs\\InterviewResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:45:16.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterviewController.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Controllers\\InterviewController.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Controllers\\InterviewController.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Controllers\\InterviewController.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Controllers\\InterviewController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:42:46.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250420103717_nu.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250420103717_nu.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Migrations\\20250420103717_nu.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250420103717_nu.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Migrations\\20250420103717_nu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:37:17.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250420100213_null.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250420100213_null.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Migrations\\20250420100213_null.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250420100213_null.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Migrations\\20250420100213_null.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:02:13.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250420093208_Addid.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250420093208_Addid.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Migrations\\20250420093208_Addid.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250420093208_Addid.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Migrations\\20250420093208_Addid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:32:09.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250420090734_AddStatusnew.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250420090734_AddStatusnew.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Migrations\\20250420090734_AddStatusnew.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250420090734_AddStatusnew.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Migrations\\20250420090734_AddStatusnew.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:07:34.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Model\\Interview.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Model\\Interview.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Model\\Interview.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Model\\Interview.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T09:01:19.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShortlisredProfile.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Model\\ShortlisredProfile.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Model\\ShortlisredProfile.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Model\\ShortlisredProfile.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Model\\ShortlisredProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:59:32.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateStatusDto.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\DTOs\\UpdateStatusDto.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\DTOs\\UpdateStatusDto.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\DTOs\\UpdateStatusDto.cs",
+              "RelativeToolTip": "RecruitmentManagement\\DTOs\\UpdateStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:57:48.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250420083257_AddStatusToJobApplication.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250420083257_AddStatusToJobApplication.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Migrations\\20250420083257_AddStatusToJobApplication.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250420083257_AddStatusToJobApplication.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Migrations\\20250420083257_AddStatusToJobApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T08:32:58.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250416174108_U.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250416174108_U.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Migrations\\20250416174108_U.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250416174108_U.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Migrations\\20250416174108_U.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:41:08.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:39:52.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RecruitmentManagement",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\RecruitmentManagement.csproj",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\RecruitmentManagement.csproj",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\RecruitmentManagement.csproj",
+              "RelativeToolTip": "RecruitmentManagement\\RecruitmentManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T17:03:50.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250416165735_MigrationName.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250416165735_MigrationName.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Migrations\\20250416165735_MigrationName.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250416165735_MigrationName.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Migrations\\20250416165735_MigrationName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T16:57:35.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicantDto.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\DTOs\\ApplicantDto.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\DTOs\\ApplicantDto.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\DTOs\\ApplicantDto.cs",
+              "RelativeToolTip": "RecruitmentManagement\\DTOs\\ApplicantDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T11:45:55.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RecruitmentManagement.csproj",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\RecruitmentManagement.csproj",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\RecruitmentManagement.csproj",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\RecruitmentManagement.csproj",
+              "RelativeToolTip": "RecruitmentManagement\\RecruitmentManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T11:45:05.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Model\\Profile.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Model\\Profile.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Model\\Profile.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Model\\Profile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:27:51.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250416102050_ini.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250416102050_ini.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Migrations\\20250416102050_ini.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250416102050_ini.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Migrations\\20250416102050_ini.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:20:50.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250416101929_cv.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250416101929_cv.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Migrations\\20250416101929_cv.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250416101929_cv.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Migrations\\20250416101929_cv.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:19:29.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\WeatherForecast.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\WeatherForecast.cs",
+              "RelativeToolTip": "RecruitmentManagement\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:16:54.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250416101523_q.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250416101523_q.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Migrations\\20250416101523_q.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Migrations\\20250416101523_q.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Migrations\\20250416101523_q.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T10:15:23.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Data\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Data\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Data\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:20:17.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobPosting.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Model\\JobPosting.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Model\\JobPosting.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Model\\JobPosting.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Model\\JobPosting.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:46:15.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Program.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Program.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:29:41.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobPostingController.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Controllers\\JobPostingController.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Controllers\\JobPostingController.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Controllers\\JobPostingController.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Controllers\\JobPostingController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAqwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:17:07.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobPostingService.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Services\\JobPostingService.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Services\\JobPostingService.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Services\\JobPostingService.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Services\\JobPostingService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAmwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:16:56.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:17:22.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Model\\User.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Model\\User.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Model\\User.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:21:39.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobApplicationController.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Controllers\\JobApplicationController.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Controllers\\JobApplicationController.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Controllers\\JobApplicationController.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Controllers\\JobApplicationController.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAmwO4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:25:10.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowGMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:19:38.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T12:19:46.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\appsettings.json",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\appsettings.json",
+              "RelativeToolTip": "RecruitmentManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T11:29:40.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Model\\JobApplication.cs",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Model\\JobApplication.cs",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Model\\JobApplication.cs",
+              "RelativeToolTip": "RecruitmentManagement\\Model\\JobApplication.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:30:03.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250415175923_RemoveResumeUrlFromJobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\P12C139\\OneDrive - Ceridian HCM Inc\\Desktop\\.NET Training\\RecruitmentManagement\\RecruitmentManagement\\Migrations\\20250415175923_RemoveResumeUrlFromJobApplication.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\P12C139\\OneDrive - Ceridian HCM Inc\\Desktop\\.NET Training\\RecruitmentManagement\\RecruitmentManagement\\Migrations\\20250415175923_RemoveResumeUrlFromJobApplication.cs",
+              "ToolTip": "C:\\Users\\P12C139\\OneDrive - Ceridian HCM Inc\\Desktop\\.NET Training\\RecruitmentManagement\\RecruitmentManagement\\Migrations\\20250415175923_RemoveResumeUrlFromJobApplication.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\P12C139\\OneDrive - Ceridian HCM Inc\\Desktop\\.NET Training\\RecruitmentManagement\\RecruitmentManagement\\Migrations\\20250415175923_RemoveResumeUrlFromJobApplication.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:59:23.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RecruitmentManagement\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T11:48:43.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RecruitmentManagement.http",
+              "DocumentMoniker": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\RecruitmentManagement.http",
+              "RelativeDocumentMoniker": "RecruitmentManagement\\RecruitmentManagement.http",
+              "ToolTip": "C:\\dotnettraining\\OnlineRecruitmentSystem\\shaan-main\\RecruitmentManagement\\RecruitmentManagement.http",
+              "RelativeToolTip": "RecruitmentManagement\\RecruitmentManagement.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-15T11:49:15.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

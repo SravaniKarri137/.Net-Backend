@@ -1,0 +1,76 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/RecruitmentManagement/resumes/33ee20cd-817d-4e0e-bd95-881194b4421b_handwritten.ecbs0unb7j.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\33ee20cd-817d-4e0e-bd95-881194b4421b_handwritten.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ecbs0unb7j"},{"Name":"integrity","Value":"sha256-km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I="},{"Name":"label","Value":"_content/RecruitmentManagement/resumes/33ee20cd-817d-4e0e-bd95-881194b4421b_handwritten.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7441733"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:25:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RecruitmentManagement/resumes/33ee20cd-817d-4e0e-bd95-881194b4421b_handwritten.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\33ee20cd-817d-4e0e-bd95-881194b4421b_handwritten.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7441733"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:25:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RecruitmentManagement/resumes/5fb800f4-137b-40e8-be6b-3a67c2a310f2_handwritten.ecbs0unb7j.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\5fb800f4-137b-40e8-be6b-3a67c2a310f2_handwritten.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ecbs0unb7j"},{"Name":"integrity","Value":"sha256-km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I="},{"Name":"label","Value":"_content/RecruitmentManagement/resumes/5fb800f4-137b-40e8-be6b-3a67c2a310f2_handwritten.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7441733"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:25:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RecruitmentManagement/resumes/5fb800f4-137b-40e8-be6b-3a67c2a310f2_handwritten.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\5fb800f4-137b-40e8-be6b-3a67c2a310f2_handwritten.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7441733"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:25:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RecruitmentManagement/resumes/639fb5aa-bf9c-4e4d-8ec4-4957c453373b_ResumeSoftcopy.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\639fb5aa-bf9c-4e4d-8ec4-4957c453373b_ResumeSoftcopy.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZWsgT/iGbx/n/YuOHYcRytx1k5p9AbVA58ebyItBudI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"117903"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022ZWsgT/iGbx/n/YuOHYcRytx1k5p9AbVA58ebyItBudI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 16:21:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RecruitmentManagement/resumes/639fb5aa-bf9c-4e4d-8ec4-4957c453373b_ResumeSoftcopy.v31gvrabv6.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\639fb5aa-bf9c-4e4d-8ec4-4957c453373b_ResumeSoftcopy.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v31gvrabv6"},{"Name":"integrity","Value":"sha256-ZWsgT/iGbx/n/YuOHYcRytx1k5p9AbVA58ebyItBudI="},{"Name":"label","Value":"_content/RecruitmentManagement/resumes/639fb5aa-bf9c-4e4d-8ec4-4957c453373b_ResumeSoftcopy.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"117903"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022ZWsgT/iGbx/n/YuOHYcRytx1k5p9AbVA58ebyItBudI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 16:21:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RecruitmentManagement/resumes/d6fb062f-6734-47f9-89be-8821e96c4512_ResumeSoftcopy.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\d6fb062f-6734-47f9-89be-8821e96c4512_ResumeSoftcopy.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZWsgT/iGbx/n/YuOHYcRytx1k5p9AbVA58ebyItBudI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"117903"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022ZWsgT/iGbx/n/YuOHYcRytx1k5p9AbVA58ebyItBudI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:12:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RecruitmentManagement/resumes/d6fb062f-6734-47f9-89be-8821e96c4512_ResumeSoftcopy.v31gvrabv6.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\d6fb062f-6734-47f9-89be-8821e96c4512_ResumeSoftcopy.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"v31gvrabv6"},{"Name":"integrity","Value":"sha256-ZWsgT/iGbx/n/YuOHYcRytx1k5p9AbVA58ebyItBudI="},{"Name":"label","Value":"_content/RecruitmentManagement/resumes/d6fb062f-6734-47f9-89be-8821e96c4512_ResumeSoftcopy.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"117903"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022ZWsgT/iGbx/n/YuOHYcRytx1k5p9AbVA58ebyItBudI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 20 Apr 2025 09:12:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RecruitmentManagement/resumes/df165857-0176-4f83-a7c7-22b275dd493b_handwritten.ecbs0unb7j.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\df165857-0176-4f83-a7c7-22b275dd493b_handwritten.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ecbs0unb7j"},{"Name":"integrity","Value":"sha256-km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I="},{"Name":"label","Value":"_content/RecruitmentManagement/resumes/df165857-0176-4f83-a7c7-22b275dd493b_handwritten.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7441733"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Apr 2025 07:37:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RecruitmentManagement/resumes/df165857-0176-4f83-a7c7-22b275dd493b_handwritten.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\df165857-0176-4f83-a7c7-22b275dd493b_handwritten.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7441733"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Apr 2025 07:37:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RecruitmentManagement/resumes/e120ec6b-c74b-4a4f-9ac0-b01c0c17813d_handwritten.ecbs0unb7j.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\e120ec6b-c74b-4a4f-9ac0-b01c0c17813d_handwritten.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ecbs0unb7j"},{"Name":"integrity","Value":"sha256-km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I="},{"Name":"label","Value":"_content/RecruitmentManagement/resumes/e120ec6b-c74b-4a4f-9ac0-b01c0c17813d_handwritten.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7441733"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Apr 2025 05:15:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RecruitmentManagement/resumes/e120ec6b-c74b-4a4f-9ac0-b01c0c17813d_handwritten.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\resumes\e120ec6b-c74b-4a4f-9ac0-b01c0c17813d_handwritten.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7441733"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022km9yBnoFQ3vxZQWZzO3IamHM8\u002BeVPAKLaxfcVVXiw8I=\u0022"},{"Name":"Last-Modified","Value":"Mon, 21 Apr 2025 05:15:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
