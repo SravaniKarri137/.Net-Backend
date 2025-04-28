@@ -1,4 +1,4 @@
-# 🧑‍💼 Online Recruitment System - Backend
+# 🧑‍💼 Online Recruitment Portal- Backend
 
 This is the **.NET Core-based backend** for the Online Recruitment System. It powers the APIs used by the frontend to perform recruitment operations like job postings, candidate applications, and interview scheduling.
 
